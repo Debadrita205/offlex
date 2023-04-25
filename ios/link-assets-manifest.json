@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Outfit-Regular.ttf",
+      "sha1": "bcb85df11636ccfe003e92f12515c29c3be865f5"
+    },
+    {
+      "path": "src/assets/fonts/SF-Compact.ttf",
+      "sha1": "12b95f289f38c2281594cf4d0b53ce33b8ba5144"
+    },
+    {
+      "path": "src/assets/fonts/SFCompactText-Regular.ttf",
+      "sha1": "a3b435af3e5c4c3a3125333a5577b7e31796b821"
+    }
+  ]
+}
